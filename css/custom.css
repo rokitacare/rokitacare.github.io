@@ -146,3 +146,13 @@ section.contact ul.list-social li.social-instagram a {
     text-transform: uppercase;
     color: #818181;
 }
+
+.contact-details .col-md-5 {
+      width: 50%;
+}
+
+@media (min-width: 992px) {
+.col-md-5 {
+    width: 50%;
+}
+}
