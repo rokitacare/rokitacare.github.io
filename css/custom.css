@@ -134,8 +134,41 @@ section.contact ul.list-social li.social-instagram a {
     margin-right: 8px;
 }
 
+.employer-details h3 {
+    border-bottom: 1px solid #008ecc;
+    font-weight: 700;
+    margin-bottom: 15px;
+    padding-bottom: 15px;
+    text-transform: uppercase;
+    color: #818181;
+}
+
+.employer-details p {
+    color: #818181;
+    text-align: left;
+}
+
+ul.about-list li {
+    display: block;
+    font-size: 16px;
+    line-height: 30px;
+    text-align: left;
+    color: #818181;
+    margin-left: -37px;
+}
+
 .fa-pencil:before {
     content: "\f040";
+}
+
+.section-employer-contact {
+    color: #818181;
+    text-align: center;
+}
+
+.section-employer-contact p {
+    font-size: 15px;
+    font-weight: bold;
 }
 
 .contact-details h3 {
