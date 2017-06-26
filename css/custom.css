@@ -80,8 +80,7 @@ section.about {
   position: relative;
 }
 
-.about,
-.references {
+.about {
     font-weight: 700;
     float: right;
     margin-bottom: 15px;
@@ -90,8 +89,7 @@ section.about {
     color: #818181;
 }
 
-.about h3,
-.references h3 {
+.about h3 {
     border-bottom: 1px solid #008ecc;
     font-weight: 700;
     margin-bottom: 15px;
@@ -100,8 +98,7 @@ section.about {
     color: #818181;
 }
 
-.about p,
-.references p {
+.about p {
   text-transform: none;
 }
 
