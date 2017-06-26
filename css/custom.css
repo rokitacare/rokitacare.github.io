@@ -80,6 +80,31 @@ section.about {
   position: relative;
 }
 
+.about,
+.references {
+    font-weight: 700;
+    float: right;
+    margin-bottom: 15px;
+    padding-bottom: 15px;
+    text-transform: uppercase;
+    color: #818181;
+}
+
+.about h3,
+.references h3 {
+    border-bottom: 1px solid #008ecc;
+    font-weight: 700;
+    margin-bottom: 15px;
+    padding-bottom: 15px;
+    text-transform: uppercase;
+    color: #818181;
+}
+
+.about p,
+.references p {
+  text-transform: none;
+}
+
 
 .footer-widget {
   background-color: #222;
