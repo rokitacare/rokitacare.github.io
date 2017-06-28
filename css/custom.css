@@ -11,6 +11,19 @@ body {
   margin-bottom: 5px;
 }
 
+.navbar-default .nav>li.active>a, .navbar-default .nav>li.active>a:focus {
+    color: black!important;
+    background-color: transparent;
+    font-weight: bold;
+}
+
+@media (min-width: 768px) {
+.navbar-default.affix .nav>li>a:focus:hover, .navbar-default.affix .nav>li>a:hover {
+    color: black;
+    font-weight: bold;
+}
+}
+
 header .header-content .header-content-inner h1 {
     font-size: 50px;
     line-height: 25px;
@@ -222,4 +235,8 @@ ul.about-list li {
 .col-md-5 {
     width: 50%;
 }
+}
+
+a:focus, a:hover {
+    color: whitesmoke;
 }
