@@ -118,7 +118,7 @@ a:focus {
 
 .social {
     /*font-weight: 700;*/
-    float: left;
+    float: center;
     margin-bottom: 15px;
     padding-bottom: 15px;
     text-transform: uppercase;
