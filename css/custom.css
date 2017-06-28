@@ -157,6 +157,9 @@ blockquote {
     border-left: 5px solid #eee;
 }
 
+textarea.form-control {
+    height: 200px;
+}
 
 .footer-widget {
   background-color: #222;
