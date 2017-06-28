@@ -240,3 +240,10 @@ ul.about-list li {
 a:focus, a:hover {
     color: whitesmoke;
 }
+
+.col-center-block {
+    float: none;
+    display: block;
+    margin: 0 auto;
+    /* margin-left: auto; margin-right: auto; */
+}
