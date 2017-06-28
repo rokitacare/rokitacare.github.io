@@ -169,7 +169,7 @@ textarea.form-control {
 }
 
 .footer-widget h3 {
-  font-size: 25px;
+  font-size: 20px;
   color: white;
   text-transform: uppercase;
   margin-top: 75px;
@@ -188,7 +188,7 @@ footer {
 }
 
 footer ul li a {
-  font-size: 20px;
+  font-size: 17px;
   color: rgba(255, 255, 255, 0.3);
   
 }
