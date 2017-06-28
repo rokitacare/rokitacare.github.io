@@ -214,6 +214,10 @@ section.contact ul.list-social li.social-instagram a {
     margin-right: 8px;
 }
 
+.google-map {
+    margin: 80px 30px 25px;
+}
+
 .employer-details h3 {
     border-bottom: 1px solid #008ecc;
     font-weight: 700;
