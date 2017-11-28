@@ -142,7 +142,7 @@ a:focus {
 @media (min-width: 992px) {
  .col-md-10 {
   width: 992px;
-  height: 300px;
+  height: 380px;
   z-index: 15;
   top: 50%;
   left: 21%;
@@ -163,6 +163,17 @@ textarea.form-control {
 
 label {
     color: #bfbfbf;
+}
+
+.row {
+    margin-right: 15px;
+    margin-left: -15px;
+}
+
+.form-group {
+    /* margin-bottom: 17px; */
+    margin-right: 5%;
+    /* margin-left: auto; */
 }
 
 .footer-widget {
